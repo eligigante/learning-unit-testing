@@ -12,10 +12,4 @@ In this phase, the product manager or business analyst will first provide the re
 - Requirement Traceability Matrix (RTM): Maps requirements to test cases to ensure coverage.
 - Clarified Requirements: Documented clarifications of any ambiguities or uncertainties in the requirements.
 
-| Column 1 | Column 2 |
-|----------|----------|
-| Row 1    | Data 1   |
-| Row 2    | Data 2   |
-
-
 ## Phase 2: Test Planning
