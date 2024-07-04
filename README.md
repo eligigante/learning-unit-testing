@@ -11,3 +11,6 @@ In this phase, the product manager or business analyst will first provide the re
 ### Required Deliverables:
 - Requirement Traceability Matrix (RTM): Maps requirements to test cases to ensure coverage.
 - Clarified Requirements: Documented clarifications of any ambiguities or uncertainties in the requirements.
+
+
+## Phase 2: Test Planning
